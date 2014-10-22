@@ -1,0 +1,1 @@
+"./uart_if.obj" "./timer_if.obj" "./startup_ccs.obj" "./pinmux.obj" "./network_if.obj" "./main.obj" "./gpio_if.obj" "./ff.obj" "./diskio.obj" "./EventLogger.obj" "../cc3200v1p32.cmd" -l"libc.a" 

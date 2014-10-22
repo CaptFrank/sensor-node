@@ -1,0 +1,1 @@
+"./TMP102I2CDigitalSensor.obj" "./TMP006I2CDigitalSensor.obj" "./SHT21I2CDigitalSensor.obj" "./SDSPIDigitalStorage.obj" "./I2CBaseDriver.obj" "./DS1307I2CDigitalSensor.obj" "./BMP180I2CDigitalSensor.obj" "./ADS1015I2CDigitalSensor.obj" 

@@ -1,0 +1,1 @@
+"./SPI/SPIBaseDriver.obj" "./SPI/LTC1867SPIDigitalSensor.obj" "./UARTBaseDriver.obj" "./Timer.obj" "./StateLogger.obj" "./EEPROMI2CDigitalStorage.obj" -l"libc.a" 
